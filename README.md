@@ -1,6 +1,6 @@
 # No Money, No Work
 
-[英文][简体中文](https://github.com/ITFrancis/nomoney-nowork/blob/main/README_CN.md)
+[英文]  [简体中文](https://github.com/ITFrancis/nomoney-nowork/blob/main/README_CN.md)
 
 ## reason
 
