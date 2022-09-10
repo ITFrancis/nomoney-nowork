@@ -1,4 +1,4 @@
-# 没有钱，就没有工作
+# 不给钱，就不工作
 [英文](https://github.com/ITFrancis/nomoney-nowork/blob/main/README.md)  [简体中文]
 
 ## 原因
