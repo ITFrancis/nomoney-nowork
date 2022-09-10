@@ -1,6 +1,8 @@
 # No Money, No Work
 
-## reason
+[英文]  [简体中文](https://github.com/ITFrancis/nomoney-nowork/blob/main/README_CN.md)
+
+## Reason
 
 ### ITFrancis
 
@@ -12,7 +14,7 @@
 
 
 
-## supplement
+## Supplement
 
 
 - This is an initiative agreement.
@@ -22,3 +24,8 @@
 - Everyone can add  [NMNW.LICENSE](NMNW.LICENSE)  or  [NMNW.LICENSE_CN](NMNW.LICENSE_CN) to your project to support this sport.
 
 - Please join me in fighting for the money we deserve.
+
+
+## Relevant
+
+- [996.ICU](https://github.com/996icu/996.ICU)
