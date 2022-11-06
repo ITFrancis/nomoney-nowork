@@ -19,7 +19,7 @@
 
 - This is an initiative agreement.
 
-- Everyone can submit the reason why you think the agreements should be started, pass [Pull Requests]( https://github.com/ITFrancis/nomoney-nowork/pulls ) Or email: ItalyFFlorence@gmail.com.
+- Everyone can submit the reason why you think the agreements should be started, pass [Pull Requests]( https://github.com/ITFrancis/nomoney-nowork/pulls ) Or email: itfrancisas@gmail.com.
 
 - Everyone can add  [NMNW.LICENSE](NMNW.LICENSE)  or  [NMNW.LICENSE_CN](NMNW.LICENSE_CN) to your project to support this sport.
 
