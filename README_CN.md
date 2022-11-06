@@ -17,7 +17,7 @@
 
 
 - 这是一项倡议协议。
-- 每个人都可以通过[Pull Requests](https://github.com/ITFrancis/nomoney-nowork/pulls)或者Email：ItalyFFlorence@gmail.com，来提交您认为应该启动该计划的原因。
+- 每个人都可以通过[Pull Requests](https://github.com/ITFrancis/nomoney-nowork/pulls)或者Email：itfrancisas@gmail.com，来提交您认为应该启动该计划的原因。
 - 你可以将 [NMNW.LICENSE](NMNW.LICENSE)  或  [NMNW.LICENSE_CN](NMNW.LICENSE_CN) 添加到你的项目中来支持这项运动。
 - 请与我一起为我们应得的钱而战。
 
